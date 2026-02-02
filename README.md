@@ -6,7 +6,7 @@
   <h1> Coucou Miaou !!!</h1>
 
 
-  <script src="https://ngouysse.github.io/fetch.js"></script>
+  <script src="https://raw.githubusercontent.com/ngouysse/ngouysse.github.io/refs/heads/main/fetch.js"></script>
 
   
   
